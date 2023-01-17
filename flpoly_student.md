@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Zachary Markham
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Physics 2
 
-- Course 3
+- Statistical learning
 
-- Course 4
+- Database 1
+
+- Cloud Infrastructure and Services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computers
 
-- Thing 2
+- Data science
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Programming
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
